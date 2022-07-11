@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @dawekenshi
-- 👀 I’m interested in linux, web development, making lofi
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on nothing because really new but i can try to help if you want me to it would be a good oportunity to learn. 
-- 📫 How to reach me @da_el_we twitter
+- 👀 I’m interested in linux, computer science, python
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on nothing but because im really new but if you think in can be of help send me a message on discord!
+- 📫 How to reach me dukson fernando#3949 in discord
+
 
 <!---
 dawekenshi/dawekenshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
